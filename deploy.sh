@@ -6,5 +6,7 @@ deploy_Testing
 deploy to Testing evn
 echo good job. 
 Tested and accepted
+HEAD
+f503d99 (tested and approved by the client QA team)
 f503d99 (tested and approved by the client QA team)
 ac806a3 (conflict resolved deploy.sh)
